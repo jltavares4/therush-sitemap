@@ -17,31 +17,31 @@
 	</url>
 
   <!-- Dynamic pages (you'll generate these with Sheets) -->
-  <!-- provider URLs go here -->
+  <!-- location URLs go here -->
   <!-- location URLs go here -->
 	<url>
-		<loc>https://therush.us/provider/peniche</loc>
+		<loc>https://therush.us/location/peniche</loc>
 	</url>
 	<url>
-		<loc>https://therush.us/provider/porto</loc>
+		<loc>https://therush.us/location/porto</loc>
 	</url>
 	<url>
-		<loc>https://therush.us/provider/figueira-da-foz</loc>
+		<loc>https://therush.us/location/figueira-da-foz</loc>
 	</url>
 	<url>
-		<loc>https://therush.us/provider/ericeira</loc>
+		<loc>https://therush.us/location/ericeira</loc>
 	</url>
 	<url>
-		<loc>https://therush.us/provider/lisbon</loc>
+		<loc>https://therush.us/location/lisbon</loc>
 	</url>
 	<url>
-		<loc>https://therush.us/provider/algarve</loc>
+		<loc>https://therush.us/location/algarve</loc>
 	</url>
 	<url>
-		<loc>https://therush.us/provider/nazaré-limited-location</loc>
+		<loc>https://therush.us/location/nazaré-limited-location</loc>
 	</url>
 	<url>
-		<loc>https://therush.us/provider/el-tunco</loc>
+		<loc>https://therush.us/location/el-tunco</loc>
 	</url>
 
 </urlset>
