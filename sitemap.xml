@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<!-- Static pages -->
+	<url>
+		<loc>https://therush.us/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://therush.us/aboutus</loc>
+	</url>
+	<url>
+		<loc>https://therush.us/privacy</loc>
+	 </url>
+	<url>
+		<loc>https://therush.us/terms</loc>
+	</url>
+
+  <!-- Dynamic pages (you'll generate these with Sheets) -->
+  <!-- provider URLs go here -->
+  <!-- location URLs go here -->
+	<url>
+		<loc>https://therush.us/provider/peniche</loc>
+	</url>
+	<url>
+		<loc>https://therush.us/provider/porto</loc>
+	</url>
+	<url>
+		<loc>https://therush.us/provider/figueira-da-foz</loc>
+	</url>
+	<url>
+		<loc>https://therush.us/provider/ericeira</loc>
+	</url>
+	<url>
+		<loc>https://therush.us/provider/lisbon</loc>
+	</url>
+	<url>
+		<loc>https://therush.us/provider/algarve</loc>
+	</url>
+	<url>
+		<loc>https://therush.us/provider/nazaré-limited-location</loc>
+	</url>
+	<url>
+		<loc>https://therush.us/provider/el-tunco</loc>
+	</url>
+
+</urlset>
